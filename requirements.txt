@@ -1,0 +1,6 @@
+pyCraft
+openai
+pyyaml
+sqlite-utils
+streamlit
+watchdog 
