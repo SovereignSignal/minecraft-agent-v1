@@ -1,12 +1,10 @@
-openai:
-  api_key: "${OPENAI_API_KEY}"  # Set this in your environment, not here
-  model: "gpt-4o"  # Change to o3, o4-mini, etc. as desired
-
-minecraft:
-  server_host: "localhost"
-  server_port: 25565
-  username: "AgentBot"
-  password: "${MINECRAFT_PASSWORD}"  # Set this in your environment, not here
-
 memory:
-  db_path: "agent_memory.db" 
+  db_path: agent_memory.db
+minecraft:
+  password: ${MINECRAFT_PASSWORD}
+  server_host: 64.87.37.104
+  server_port: 25565
+  username: AgentBot1
+openai:
+  api_key: ${OPENAI_API_KEY}
+  model: o4-mini

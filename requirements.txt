@@ -3,4 +3,5 @@ openai
 pyyaml
 sqlite-utils
 streamlit
-watchdog 
+watchdog
+mcstatus 
