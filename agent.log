@@ -4,3 +4,19 @@
 [2025-05-09 16:41:53] Agent starting with username 'AgentBot1' on 64.87.37.104:25565 using model 'o4-mini'
 [2025-05-09 16:41:53] Connecting to 64.87.37.104:25565 as AgentBot1...
 [2025-05-09 16:41:53] Successfully connected and joined the server.
+[2025-05-12 16:19:19] Loading config from config.yaml
+[2025-05-12 16:19:19] Agent starting with username 'AgentBot1' on 64.87.37.104:25565 using model 'o4-mini'
+[2025-05-12 16:19:19] Connection error: module 'minecraft.networking.packets.clientbound.play' has no attribute 'PlayerInfoPacket'
+[2025-05-12 16:19:19] Retrying in 5 seconds... (Attempt 2/3)
+[2025-05-12 16:19:24] Connection error: module 'minecraft.networking.packets.clientbound.play' has no attribute 'PlayerInfoPacket'
+[2025-05-12 16:19:24] Retrying in 10 seconds... (Attempt 3/3)
+[2025-05-12 16:19:34] Connection error: module 'minecraft.networking.packets.clientbound.play' has no attribute 'PlayerInfoPacket'
+[2025-05-12 16:19:34] Max retry attempts reached, giving up.
+[2025-05-12 16:19:34] Failed to establish initial connection. Exiting.
+[2025-05-12 16:19:34] Shutting down agent...
+[2025-05-12 16:19:34] Agent shutdown complete.
+[2025-05-12 16:21:20] Loading config from config.yaml
+[2025-05-12 16:21:20] Agent starting with username 'AgentBot1' on 64.87.37.104:25565 using model 'o4-mini'
+[2025-05-12 16:21:20] Registered PlayerListItemPacket listener
+[2025-05-12 16:21:20] Connecting to 64.87.37.104:25565 as AgentBot1...
+[2025-05-12 16:21:20] Successfully connected and joined the server.

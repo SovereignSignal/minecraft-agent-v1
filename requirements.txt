@@ -4,4 +4,5 @@ pyyaml
 sqlite-utils
 streamlit
 watchdog
-mcstatus 
+mcstatus
+cryptography
